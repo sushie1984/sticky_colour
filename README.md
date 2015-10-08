@@ -48,7 +48,7 @@ amount iterative line per line.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/sticky_colour.
+Bug reports and pull requests are welcome on GitHub at https://github.com/sushie1984/sticky_colour.
 
 
 ## License
